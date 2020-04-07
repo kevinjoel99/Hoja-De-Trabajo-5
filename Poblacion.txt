@@ -1,0 +1,16 @@
+DATOS DE PERSONAS
+_________________
+Peso: 100
+Altura: 1.60
+Edad: 20
+Genero: F
+_________________
+Peso: 150
+Altura: 1.72
+Edad: 32
+Genero: M
+_________________
+Promedio de peso: 125
+Promedio de altura: 1.66
+Promedio de edad: 26
+_________________
